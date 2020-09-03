@@ -227,6 +227,42 @@ public class MainActivity extends AppCompatActivity {
 
  */
 
+/*
+
+ //     To show all users
+
+        ParseQuery<ParseUser> query = ParseUser.getQuery();
+
+        // Don't get current user
+        query.whereNotEqualTo("username",ParseUser.getCurrentUser().getUsername());
+        // ADD IN ASCENDING ORDER
+        query.addAscendingOrder("username");
+
+        query.findInBackground(new FindCallback<ParseUser>() {
+            @Override
+            public void done(List<ParseUser> objects, ParseException e)
+            {
+                if(e == null )
+                {
+                    if(objects.size() > 0)
+                    {
+                        for (ParseUser user : objects)
+                        {
+                            Log.i("Username", user.getString("username"));
+                            usernames.add(user.getUsername());
+                        }
+                        listView.setAdapter(arrayAdapter);
+                    }
+                }
+                else
+                {
+                    e.printStackTrace();
+                }
+            }
+        });
+
+ */
+
 
 
 
