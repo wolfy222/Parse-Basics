@@ -1,6 +1,6 @@
 # Parse-Basics
 
-## Task 1 - Creating a database named 'Scores'. In this we will be storing scores of different users and their usernames and performing different operations as given below :-
+## Task 1 - Creating a database named 'Scores'. In this we will be storing scores of different users and their usernames inside our parse server and performing different operations as given below :-
 
 ### Topic - 1
     Adding usernames and scores of differnt players.
@@ -19,11 +19,17 @@
     
 #### Example task - TO GET A PERSON WHOSE SCORE IS GREATER THAN 50, GIVE THEM ADDITIONAL 20 POINTS
 
-## Task 2 - Here, we are  we are creating the backend of login/signup page of our instagram clone, which would store data in parse server.=)
-
+## Task 2 - Here, we are  we are creating the backend of login/signup page of our instagram clone, which would store their usernames and password inside our parse server.=)
     
-### Topic - 6
-    Sign up a new user 
+### Topic - 1
+    Sign Up a new user.
+ 
+ ### Topic - 2
+    Login an existing user.
+    
+ ### Topic - 1
+ ### Topic - 1
+ ### Topic - 1
     
     
     
