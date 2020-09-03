@@ -19,7 +19,7 @@
     
 #### Example task - TO GET A PERSON WHOSE SCORE IS GREATER THAN 50, GIVE THEM ADDITIONAL 20 POINTS
 
-## Task 2 - Here, we are  we are creating the backend of login/signup page of our instagram clone, which would store their usernames and password inside our parse server.=)
+## Task 2 - Here, we are  we are creating the backend of login/signup page of our instagram clone, which would store their usernames and password inside our parse server.
     
 ### Topic - 1
     Sign Up a new user.
@@ -36,7 +36,7 @@
  ### Topic - 5
     Grabing the list of all users, that have been signed up,
 
-# ------------------------------------------------------------------------------
+# --------------------------------------------------------------
 
 That would do all for us for getting started with parse.
 And, please do checkout my own INSTAGRAM CLONE =)
