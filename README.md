@@ -39,6 +39,8 @@
 That would do all for us for getting started with parse.
 And, please do checkout my own INSTAGRAM CLONE =)
 
+https://github.com/wolfy222/Parse-Server-Starter-Project
+
     
     
     
