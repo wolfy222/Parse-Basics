@@ -35,9 +35,8 @@
     
  ### Topic - 5
     Grabing the list of all users, that have been signed up,
-    
 
-# -----------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
 
 That would do all for us for getting started with parse.
 And, please do checkout my own INSTAGRAM CLONE =)
