@@ -27,9 +27,18 @@
  ### Topic - 2
     Login an existing user.
     
- ### Topic - 1
- ### Topic - 1
- ### Topic - 1
+ ### Topic - 3
+    Check if someone is logged in.
+    
+ ### Topic - 4
+    Log out a user.
+    
+ ### Topic - 5
+    Grabing the list of all users, that have been signed up,
+    
+That would do all for us for getting started with parse.
+And, please do checkout my own INSTAGRAM CLONE =)
+
     
     
     
